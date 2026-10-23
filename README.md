@@ -52,8 +52,6 @@ ApexPointer is a strategic risk governance framework designed to continuously mo
 
 ---
 
----
-
 ## Documentation
 
 The complete project report and technical documentation are available directly in the repository:
