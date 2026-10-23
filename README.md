@@ -1,4 +1,4 @@
-# ApexPointer - External Attack Surface Management (EASM) & Vulnerability Scanner
+External Attack Surface Management (EASM) & Vulnerability Scanner
 
 ApexPointer is a strategic risk governance framework designed to continuously monitor an organization's public-facing digital perimeter from an adversarial perspective. It automatically identifies technical exposures, visualizes attack paths using 3D graphs, and translates raw telemetry into executive-level risk metrics and automated remediation workflows.
 
